@@ -1,2 +1,16 @@
-# ic-educacao-neurodiversidade
-Análise multidimensional da educação no Brasil com foco em neurodiversidade (TEA/TDAH). Utilizando Python, SQL e Machine Learning (Random Forest/Clusterização) sobre bases nacionais (SAEB, DATASUS, Censo Escolar), investigo como fatores socioeconômicos e de saúde influenciam o desempenho e as trajetórias educacionais.
+**Título do Projeto**
+Educação sob Múltiplas Dimensões: Análise de Perfis de Aprendizagem e Neurodiversidade no Brasil
+
+**Resumo Executivo**
+Um parágrafo curto explicando que o estudo utilizou ciência de dados para analisar como fatores socioeconômicos e de saúde (TEA e TDAH) impactam o desempenho escolar em larga escala.  
+
+**Tecnologias Utilizadas**
+Linguagem: Python.  
+Bibliotecas: Pandas (manipulação), Matplotlib/Seaborn (visualização), Scikit-learn (Machine Learning).  
+Bancos de Dados: SQL.  
+Ferramentas de BI: Power BI.  
+
+**Principais Insights**
+A influência preponderante da renda familiar no desempenho de Matemática (identificada via Feature Importance).  
+Diferenças na distribuição por sexo em diagnósticos de TEA e TDAH.  
+Heterogeneidade regional na prevalência ponderada das condições analisadas.
