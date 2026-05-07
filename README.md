@@ -23,12 +23,19 @@ Este repositório contém o projeto de Iniciação Científica focado na anális
 ##  Estrutura do Repositório
 
 ├── scripts/
+
 │   ├── preprocessing/      # Scripts de redução e amostragem
+
 │   └── cleaning/           # Tratamento especializado (SAEB e Censo)
+
 ├── notebooks/
+
 │   └── gr-ficos.ipynb     # Análise exploratória e visualizações
+
 ├── docs/
+
 │   └── Relatorio_IC.pdf   # Relatório final detalhado
+
 └── README.md
 
 ## 👩‍💻 Autora
