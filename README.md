@@ -38,7 +38,7 @@ Este repositório contém o projeto de Iniciação Científica focado na anális
 
 └── README.md
 
-## 👩‍💻 Autores
+## Autores
 
 **Jackeline Ayumi Kanekiyo** *Estudante de Ciência da Computação - UNIFEOB*
 
